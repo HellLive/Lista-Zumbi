@@ -1,5 +1,5 @@
-***Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule
-o total em segundos.***
+'''Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule
+o total em segundos.'''
 
 dias=int(input('Digite a quantidades de dias:'))
 horas=int(input('Digite a quantidades de horas:'))
