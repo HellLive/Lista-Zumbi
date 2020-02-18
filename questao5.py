@@ -1,5 +1,5 @@
-***Solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o
-preço a pagar.***
+'''Solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o
+preço a pagar.'''
 
 produto=float(input("Informe o valor do produto:"))
 desconto=int(input("Informe o valor do desconto:"))
