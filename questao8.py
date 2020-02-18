@@ -1,4 +1,4 @@
-***Faça agora o contrário, de Fahrenheit para Celsius.***
+'''Faça agora o contrário, de Fahrenheit para Celsius.'''
 
 f=float(input('Informe a temperatura em Fahrenheit para a conversão: '))
 celsius = (f-32)/1.8000
